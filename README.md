@@ -703,7 +703,7 @@ This practical helps understand **Android background components, system services
 
 ## 👨‍💻 Author
 
-**Krish Sakariya**
+**Yug Jivani**
 
 **Course:** B.Tech Information Technology
 **Subject:** Mobile Application Development (MAD)
